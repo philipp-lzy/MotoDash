@@ -1,2 +1,0 @@
-# MotoDash
-Dashboard for Bike
